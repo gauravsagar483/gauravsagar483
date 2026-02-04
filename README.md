@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 
 <ul>
-  <li>I'm <a href = "https://sagaur.substack.com/">Gaurav Sagar</a>, a Software Engineer III @ Expedia Group, having 6+ years of experience working in various domains like Python, backend and data engineering.</li>
+  <li>I'm <a href = "https://sagaur.substack.com/">Gaurav Sagar</a>, a Software Engineer III @ Expedia Group, having 8 years of experience working in various domains like Python, backend and data engineering.</li>
   <li>Checkout my GitHub <a href = "https://github.com/gauravsagar483">Profile</a>,
   <li>Subscribe to my <a href = "https://sagaur.substack.com/subscribe">Substack</a> and get <b>FREE System Design Interview Tips</b> in your inbox.</li>
   <li>Follow me on <a href="https://www.linkedin.com/in/gaurav-sagar145/">LinkedIn</a> to stay updated.</li>
